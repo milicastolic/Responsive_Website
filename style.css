@@ -170,7 +170,7 @@ nav:hover ul {
 
 .one-third-port img:hover {
 	opacity: .6;
-	transform: perspective(900px) rotateY(360deg);
+	transform: perspective(500px) rotateY(360deg);
 	transition: 3s;
 }
 

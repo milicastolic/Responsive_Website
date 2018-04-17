@@ -1,2 +1,2 @@
 # Responsive_Website
-My personal website
+My personal webpage
